@@ -1,0 +1,36 @@
+div {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    /* text-align: center; */
+    width: 200px;
+    height: 290px;
+    background-color: #D8BFD8;
+    justify-content: space-between;
+    padding: 3rem 3rem;
+    
+
+}
+
+h3 {
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 1rem;
+  }
+
+form {
+    margin: 0 auto;
+    justify-content: center;
+}
+
+
+label {
+    text-align: left;
+}
+
+button {
+    background-color: #E6E6FA;
+  border-radius: 0.6rem;
+  font-size: 1rem;
+  width: 170px
+}
